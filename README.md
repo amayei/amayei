@@ -13,7 +13,7 @@ I work at the intersection of digital health, routine health information systems
 ## Focus areas
 
 - **Digital health** — electronic tools for frontline health workers, stock and commodity management, and digital literacy for health staff.
-- **Monitoring, Evaluation & Learning** — indicator frameworks, routine monitoring systems, data quality assurance, and results reporting.
+- **Monitoring & Evaluation** — indicator frameworks, routine monitoring systems, data quality assurance, and results reporting.
 - **Applied research & impact evaluation** — household and facility surveys, health-service utilisation and satisfaction, and One Health governance.
 - **Data-science capacity building** — training analysts and researchers in reproducible, code-based workflows.
 
@@ -56,3 +56,5 @@ I work at the intersection of digital health, routine health information systems
 - **LinkedIn:** <https://www.linkedin.com/in/alhassan-mayei-058538193>
 - **Email:** alhassanmayei@gmail.com
 - **Location:** Sierra Leone
+
+<sub>Open to collaboration on digital health, health information systems, and applied M&E research.</sub>
