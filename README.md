@@ -19,14 +19,10 @@ AI tools are being offered to health systems in low-resource settings with littl
 
 | Repository | What it covers |
 | --- | --- |
-| [PHU-Healthcare-Satisfaction-Analysis](https://github.com/amayei/PHU-Healthcare-Satisfaction-Analysis) | Household satisfaction with Peripheral Health Unit services in Kambia, Kailahun and Pujehun districts. Source data not distributed. |
-| [Healthcare-Utilisation-and-Satisfaction](https://github.com/amayei/Healthcare-Utilisation-and-Satisfaction) | Service utilisation and satisfaction patterns from a multi-district survey. Source data not distributed. |
-| [PHU-Satisfaction-Demographic-Analysis](https://github.com/amayei/PHU-Satisfaction-Demographic-Analysis) | Satisfaction disaggregated by demographic group. |
-| [HSSEP-Monitoring-Analysis](https://github.com/amayei/HSSEP-Monitoring-Analysis) | Process-indicator monitoring and reporting for a health system strengthening programme. Staff are pseudonymised. |
 | [Survey-Data-Quality-Checks](https://github.com/amayei/Survey-Data-Quality-Checks) | Reproducible consistency and completeness checks for survey cross-tabulations. |
 | [Meningitis-Outbreak-PowerBI](https://github.com/amayei/meningitis-outbreak-powerbi) | Fully **simulated** surveillance dataset and Power BI starter kit for early-warning dashboards. Not real data. |
 
-Real survey microdata are never published in these repositories. Notebook outputs are checked for respondent-level and personal data before release.
+Analyses of household surveys and programme monitoring data (PHU satisfaction, service utilisation, HSSEP monitoring) are kept private to protect respondents and staff. I can discuss the methods and share outputs on request, subject to data-sharing permissions.
 
 ## Skills
 
